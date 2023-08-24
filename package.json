@@ -1,0 +1,13 @@
+{
+  "name": "selenium-issue-repro",
+  "version": "0.0.0",
+  "description": "Trying to reproduce an issue",
+  "author": "Philipp Hancke",
+  "scripts": {
+  },
+  "devDependencies": {
+    "chromedriver": "^98.0.1",
+    "selenium-webdriver": "4.11.0",
+    "travis-multirunner": "^5.0.1"
+  }
+}
